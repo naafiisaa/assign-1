@@ -201,3 +201,44 @@ body {
     gap: 30px;
   
 }
+.donation-tittle{color: rgb(14, 14, 14);
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;}
+    .donation-text{color: rgba(14, 14, 14, 0.7);
+        font-size: 16px;
+        font-weight: 400;
+        text-align: center;}
+        .donation-card{display: flex;
+            justify-content: space-evenly;
+           }
+        .donation-card-1{background-color: white;
+        padding: 40px;
+        border-radius: 16px;
+        border: 1px solid rgba(14, 14, 14, 0.15);}
+        .donation-card-1:hover{background-color: rgb(43, 224, 43);}
+        .donation-card-2{padding: 40px;
+            border: 1px solid rgba(14, 14, 14, 0.15);
+            border-radius: 16px;
+            background-color: rgb(140, 213, 173);}
+        .donation-card-2:hover{background-color: rgb(43, 224, 43);}
+        .amount{color: rgba(14, 14, 14, 0.8);
+            font-size: 40px;
+            font-weight: 700;
+           }
+           .inputtab{margin: 30px;}
+           .inputform{color: rgba(14, 14, 14, 0.8);
+            font-size: 40px;
+            font-weight: 700;
+            padding: 20px;
+            text-align: center;
+            box-sizing: border-box;
+border-bottom: 1px solid rgba(14, 14, 14, 0.15);
+background: rgb(255, 255, 255);
+width: 100%;
+        }
+    .donation-btn{border-radius: 8px;
+        background: rgb(9, 161, 92);
+    }
+ 
+.donation{margin: auto;}
