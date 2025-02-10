@@ -162,7 +162,7 @@ body {
     padding: 20px;
 }
 
-.card-img {
+.card-img { margin: auto;
     border: solid 2px;
     width: 408px;
     height: 306px;
@@ -210,10 +210,10 @@ body {
         font-weight: 400;
         text-align: center;}
         .donation-card{display: flex;
-            justify-content: space-evenly;
+            justify-content: space-evenly; gap: 30px;
            }
         .donation-card-1{background-color: white;
-            padding: 40px;
+            padding:30px;
         border-radius: 16px;
         border: 1px solid rgba(14, 14, 14, 0.15);}
         .donation-card-1:hover{background-color: rgb(43, 224, 43);}
@@ -223,7 +223,7 @@ body {
             background-color: rgb(140, 213, 173);}
         .donation-card-2:hover{background-color: rgb(43, 224, 43);}
         .amount{color: rgba(14, 14, 14, 0.8);
-            font-size: 40px;
+            font-size: 30px;
             font-weight: 700;
            }
            .inputtab{margin:30px;
@@ -256,7 +256,7 @@ margin: 40px 0px 40px 0px;}
 color: white; 
         background: rgb(0, 106, 80);}
     .form-e{padding: 20px 60px 20px 60px;}
-    .letter-1{margin:0px 0px 0px 33%;}
+    .letter-1{margin:0px 0px 0px 25%;}
         .news-text{color: rgba(14, 14, 14, 0.7);
             font-size: 16px;
             font-weight: 400;
