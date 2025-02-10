@@ -241,3 +241,24 @@ width: 100%;
     
  
 .donation{margin: 0px 0px 0px 46%;}
+
+.newsletter{ background-color: rgb(140, 213, 173); padding: 40px;
+margin: 40px 0px 40px 0px;}
+.newsletter-tittle{color: rgb(14, 14, 14);
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;}
+.newsletter-text{color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;}
+    .subscribe-btn{border-radius: 0px 8px 8px 0px;
+color: white; 
+        background: rgb(0, 106, 80);}
+    .form-e{padding: 20px 60px 20px 60px;}
+    .letter-1{margin:0px 0px 0px 33%;}
+        .news-text{color: rgba(14, 14, 14, 0.7);
+            font-size: 16px;
+            font-weight: 400;
+            text-align: center;
+           }
