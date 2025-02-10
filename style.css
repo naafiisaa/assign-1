@@ -213,7 +213,7 @@ body {
             justify-content: space-evenly;
            }
         .donation-card-1{background-color: white;
-        padding: 40px;
+            padding: 40px;
         border-radius: 16px;
         border: 1px solid rgba(14, 14, 14, 0.15);}
         .donation-card-1:hover{background-color: rgb(43, 224, 43);}
@@ -226,7 +226,8 @@ body {
             font-size: 40px;
             font-weight: 700;
            }
-           .inputtab{margin: 30px;}
+           .inputtab{margin:30px;
+        padding: 30px 100px 30px 100px;}
            .inputform{color: rgba(14, 14, 14, 0.8);
             font-size: 40px;
             font-weight: 700;
@@ -236,9 +237,7 @@ body {
 border-bottom: 1px solid rgba(14, 14, 14, 0.15);
 background: rgb(255, 255, 255);
 width: 100%;
-        }
-    .donation-btn{border-radius: 8px;
-        background: rgb(9, 161, 92);
-    }
+  }
+    
  
-.donation{margin: auto;}
+.donation{margin: 0px 0px 0px 46%;}
